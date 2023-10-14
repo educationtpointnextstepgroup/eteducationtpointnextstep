@@ -1,1 +1,1 @@
-web: gunicorn educative.wsgi --log-file -
+web: gunicorn educationtpointnextgroup.wsgi --log-file -
