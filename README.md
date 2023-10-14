@@ -1,4 +1,4 @@
-# Educative
+# EDUCATION TPOINT NEXTSTEP GROUP[ET]
 Django Education Website (This is a Demo project I have been assigned to)
 
 ## Project idea
@@ -17,4 +17,4 @@ Django Education Website (This is a Demo project I have been assigned to)
 I used some photos from unsplash and some videos from youtube. This is for learning purpose only. I don't hold any rights of these assets.
 
 ### Deployment
-The project is deployed on [Heroku](https://educative-py.herokuapp.com/).
+The project is deployed on [ET](https://educative-py.herokuapp.com/).
